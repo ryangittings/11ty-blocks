@@ -1,0 +1,26 @@
+{
+  "name": "ryangittings/11ty-blocks",
+  "version": "1.0.0",
+  "description": "Generate a blocks page.",
+  "main": "eleventy.config.js",
+  "keywords": [
+    "eleventy",
+    "eleventy-plugin"
+  ],
+  "author": {
+    "name": "Ryan Gittings",
+    "url": "https://gittings.studio/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/11ty/eleventy-plugin-rss/issues"
+  },
+  "homepage": "https://www.11ty.dev/docs/plugins/rss/",
+  "11ty": {
+    "compatibility": ">=3.0.0-alpha.15"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
