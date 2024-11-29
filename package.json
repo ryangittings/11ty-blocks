@@ -12,10 +12,6 @@
     "url": "https://gittings.studio/"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/11ty/eleventy-plugin-rss/issues"
-  },
-  "homepage": "https://www.11ty.dev/docs/plugins/rss/",
   "11ty": {
     "compatibility": ">=3.0.0-alpha.15"
   },
