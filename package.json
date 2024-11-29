@@ -1,5 +1,5 @@
 {
-  "name": "ryangittings/11ty-blocks",
+  "name": "@ryangittings/11ty-blocks",
   "version": "1.0.0",
   "description": "Generate a blocks page.",
   "main": "eleventy.config.js",
@@ -7,6 +7,7 @@
     "eleventy",
     "eleventy-plugin"
   ],
+  "type": "module",
   "author": {
     "name": "Ryan Gittings",
     "url": "https://gittings.studio/"
